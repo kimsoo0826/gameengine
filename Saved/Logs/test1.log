@@ -1061,3 +1061,59 @@ LogInit: Object subsystem initialized
 [2017.05.18-09.25.51:027][444]LogSavePackage: Save=76.94ms
 [2017.05.18-09.25.51:027][444]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/NewMapA8C327F24C4708D633BE1E98D18524CF.tmp' to '../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap'
 [2017.05.18-09.25.51:029][444]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap
+[2017.05.18-09.26.25:488][569]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.05.18-09.26.26:910][625]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.05.18-09.26.54:214][  7]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.05.18-09.27.43:191][363]LogActorFactory: Actor Factory created Cube
+[2017.05.18-09.27.43:718][388]LogActorFactory: Actor Factory created Cube
+[2017.05.18-09.27.45:343][408]Cmd: TRANSACTION UNDO
+[2017.05.18-09.27.45:343][408]LogEditorTransaction: Undo Create Actors
+[2017.05.18-09.27.47:465][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-09.27.47:624][469]LogSavePackage: Save=91.99ms
+[2017.05.18-09.27.47:625][469]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/NewMap5365644D4812747B215EEE95A86B1AD5.tmp' to '../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap'
+[2017.05.18-09.27.47:630][469]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap
+[2017.05.18-09.27.50:147][562]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.05.18-09.28.19:337][987]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.05.18-09.28.26:487][321]Cmd: DELETE
+[2017.05.18-09.28.26:487][321]Cmd: ACTOR DELETE
+[2017.05.18-09.28.26:488][321]LogEditorActor: Deleted Actor: Brush
+[2017.05.18-09.28.26:524][321]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2017.05.18-09.29.09:403][721]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.18-09.29.09:443][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-09.29.09:443][721]PIE: New page: PIE session: NewMap (May 19, 2017, 3:29:09 AM)
+[2017.05.18-09.29.09:443][721]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2017.05.18-09.29.09:453][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009967s)
+[2017.05.18-09.29.09:454][721]LogAIModule: Creating AISystem for world NewMap
+[2017.05.18-09.29.09:454][721]LogPlayLevel: PIE: World Init took: (0.001238s)
+[2017.05.18-09.29.09:454][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.011535s)
+[2017.05.18-09.29.09:515][721]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-09.29.09:602][721]LogInit: FAudioDevice initialized.
+[2017.05.18-09.29.09:638][721]LogLoad: Game class is 'shooter_C'
+[2017.05.18-09.29.09:641][721]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.05.18-18.29.09
+[2017.05.18-09.29.09:641][721]LogWorld: Bringing up level for play took: 0.001461
+[2017.05.18-09.29.09:648][721]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.052
+[2017.05.18-09.29.19:384][267]LogBlueprintUserMessages: [heroBp_C_0] 70.0
+[2017.05.18-09.29.28:620][811]LogBlueprintUserMessages: [heroBp_C_0] 40.0
+[2017.05.18-09.29.45:462][752]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2017.05.18-09.29.57:001][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-09.29.57:166][322]LogSavePackage: Save=122.82ms
+[2017.05.18-09.29.57:166][322]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/NewMapE817460548F6436384DA3289E94BD7D0.tmp' to '../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap'
+[2017.05.18-09.29.57:176][322]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap
+[2017.05.18-09.29.59:492][438]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.18-09.29.59:519][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-09.29.59:519][438]PIE: New page: PIE session: NewMap (May 19, 2017, 3:29:59 AM)
+[2017.05.18-09.29.59:519][438]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2017.05.18-09.29.59:534][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014909s)
+[2017.05.18-09.29.59:535][438]LogAIModule: Creating AISystem for world NewMap
+[2017.05.18-09.29.59:535][438]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2017.05.18-09.29.59:535][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.016303s)
+[2017.05.18-09.29.59:594][438]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-09.29.59:679][438]LogInit: FAudioDevice initialized.
+[2017.05.18-09.29.59:716][438]LogLoad: Game class is 'shooter_C'
+[2017.05.18-09.29.59:719][438]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.05.18-18.29.59
+[2017.05.18-09.29.59:719][438]LogWorld: Bringing up level for play took: 0.001411
+[2017.05.18-09.29.59:726][438]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.027
+[2017.05.18-09.30.25:932][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-09.30.26:073][812]LogSavePackage: Save=90.50ms
+[2017.05.18-09.30.26:073][812]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/NewMap312EA1BC47C5CABB005E5B9888CCFB01.tmp' to '../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap'
+[2017.05.18-09.30.26:078][812]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap
