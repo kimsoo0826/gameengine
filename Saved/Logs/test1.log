@@ -732,3 +732,48 @@ LogInit: Object subsystem initialized
 [2017.05.18-08.55.01:549][ 54]LogSavePackage: Save=86.77ms
 [2017.05.18-08.55.01:549][ 54]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/NewMap3025CC124152AFDB13DD4496E56EE5EC.tmp' to '../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap'
 [2017.05.18-08.55.01:556][ 54]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap
+[2017.05.18-08.55.34:532][611]BlueprintLog: New page: Compile spawn
+[2017.05.18-08.56.12:473][132]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-08.56.55:458][ 19]BlueprintLog: New page: Compile spawn
+[2017.05.18-08.56.56:129][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemyBp/spawn" FILE="../../../../../../Users/kimso/gameengine/Content/enemyBp/spawn.uasset" SILENT=true
+[2017.05.18-08.56.56:188][ 26]LogSavePackage: Save=34.84ms
+[2017.05.18-08.56.56:188][ 26]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/spawn7DF69CBB483ACFEA263B968F00B91D47.tmp' to '../../../../../../Users/kimso/gameengine/Content/enemyBp/spawn.uasset'
+[2017.05.18-08.56.56:193][ 26]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/enemyBp/spawn.uasset
+[2017.05.18-08.57.08:074][696]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-08.57.14:370][ 10]BlueprintLog: New page: Compile spawn
+[2017.05.18-08.57.15:200][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemyBp/spawn" FILE="../../../../../../Users/kimso/gameengine/Content/enemyBp/spawn.uasset" SILENT=true
+[2017.05.18-08.57.15:245][ 33]LogSavePackage: Save=33.87ms
+[2017.05.18-08.57.15:245][ 33]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/spawnAE7499414DA56022F544AB805B2BB907.tmp' to '../../../../../../Users/kimso/gameengine/Content/enemyBp/spawn.uasset'
+[2017.05.18-08.57.15:252][ 33]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/enemyBp/spawn.uasset
+[2017.05.18-08.57.18:554][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemyBp/spawn" FILE="../../../../../../Users/kimso/gameengine/Content/enemyBp/spawn.uasset" SILENT=true
+[2017.05.18-08.57.18:671][190]LogSavePackage: Save=102.90ms
+[2017.05.18-08.57.18:672][190]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/spawn4AD23F5D47B7E0356DA89E8F188B4A96.tmp' to '../../../../../../Users/kimso/gameengine/Content/enemyBp/spawn.uasset'
+[2017.05.18-08.57.18:674][190]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/enemyBp/spawn.uasset
+[2017.05.18-08.57.21:093][333]LogEditorViewport: Clicking on Actor (LMB): enemyBp_C (enemyBp)
+[2017.05.18-08.57.23:494][379]Cmd: DELETE
+[2017.05.18-08.57.23:494][379]Cmd: ACTOR DELETE
+[2017.05.18-08.57.23:495][379]LogEditorActor: Deleted Actor: enemyBp_C
+[2017.05.18-08.57.23:525][379]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2017.05.18-08.57.39:527][226]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.18-08.57.39:578][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-08.57.39:579][226]PIE: New page: PIE session: NewMap (May 19, 2017, 2:57:39 AM)
+[2017.05.18-08.57.39:579][226]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2017.05.18-08.57.39:585][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005860s)
+[2017.05.18-08.57.39:586][226]LogAIModule: Creating AISystem for world NewMap
+[2017.05.18-08.57.39:586][226]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2017.05.18-08.57.39:587][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.007492s)
+[2017.05.18-08.57.39:645][226]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-08.57.39:733][226]LogInit: FAudioDevice initialized.
+[2017.05.18-08.57.39:766][226]LogLoad: Game class is 'shooter_C'
+[2017.05.18-08.57.39:768][226]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.05.18-17.57.39
+[2017.05.18-08.57.39:769][226]LogWorld: Bringing up level for play took: 0.001524
+[2017.05.18-08.57.39:773][226]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.073
+[2017.05.18-08.57.42:236][353]LogBlueprintUserMessages: [heroBp_C_0] 70.0
+[2017.05.18-08.57.48:419][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-08.57.48:580][560]LogSavePackage: Save=109.86ms
+[2017.05.18-08.57.48:580][560]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/NewMap85B0BF6E4602C1DCEED312894C98EC90.tmp' to '../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap'
+[2017.05.18-08.57.48:585][560]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap
+[2017.05.18-08.57.48:988][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-08.57.49:138][573]LogSavePackage: Save=78.58ms
+[2017.05.18-08.57.49:138][573]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/NewMap301A41FE406C54CD24EC858A910B3D1E.tmp' to '../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap'
+[2017.05.18-08.57.49:141][573]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap
