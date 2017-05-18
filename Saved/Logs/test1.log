@@ -703,3 +703,32 @@ LogInit: Object subsystem initialized
 [2017.05.18-08.52.48:981][653]LogWorld: Bringing up level for play took: 0.003134
 [2017.05.18-08.52.48:995][653]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.704
 [2017.05.18-08.52.49:018][653]LogRenderer: Reallocating scene render targets to support 1292x756 NumSamples 1 (Frame:51852).
+[2017.05.18-08.53.33:383][117]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.05.18-08.53.34:401][163]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.05.18-08.53.37:056][308]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.05.18-08.54.27:239][573]BlueprintLog: New page: Compile AImove
+[2017.05.18-08.54.28:381][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemyBp/AImove" FILE="../../../../../../Users/kimso/gameengine/Content/enemyBp/AImove.uasset" SILENT=true
+[2017.05.18-08.54.28:474][612]LogSavePackage: Save=68.77ms
+[2017.05.18-08.54.28:474][612]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/AImoveFF14D86243D1D782BE7A708650861C43.tmp' to '../../../../../../Users/kimso/gameengine/Content/enemyBp/AImove.uasset'
+[2017.05.18-08.54.28:480][612]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/enemyBp/AImove.uasset
+[2017.05.18-08.54.41:635][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.05.18-08.54.55:969][838]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.18-08.54.56:009][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-08.54.56:009][838]PIE: New page: PIE session: NewMap (May 19, 2017, 2:54:56 AM)
+[2017.05.18-08.54.56:009][838]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2017.05.18-08.54.56:019][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009868s)
+[2017.05.18-08.54.56:020][838]LogAIModule: Creating AISystem for world NewMap
+[2017.05.18-08.54.56:021][838]LogPlayLevel: PIE: World Init took: (0.001834s)
+[2017.05.18-08.54.56:021][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.012095s)
+[2017.05.18-08.54.56:079][838]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-08.54.56:166][838]LogInit: FAudioDevice initialized.
+[2017.05.18-08.54.56:203][838]LogLoad: Game class is 'shooter_C'
+[2017.05.18-08.54.56:207][838]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.05.18-17.54.56
+[2017.05.18-08.54.56:207][838]LogWorld: Bringing up level for play took: 0.003022
+[2017.05.18-08.54.56:211][838]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.511
+[2017.05.18-08.54.58:572][966]LogBlueprintUserMessages: [heroBp_C_0] 70.0
+[2017.05.18-08.54.58:908][986]LogBlueprintUserMessages: [heroBp_C_0] 40.0
+[2017.05.18-08.55.01:418][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-08.55.01:549][ 54]LogSavePackage: Save=86.77ms
+[2017.05.18-08.55.01:549][ 54]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/NewMap3025CC124152AFDB13DD4496E56EE5EC.tmp' to '../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap'
+[2017.05.18-08.55.01:556][ 54]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap
