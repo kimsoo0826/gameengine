@@ -777,3 +777,110 @@ LogInit: Object subsystem initialized
 [2017.05.18-08.57.49:138][573]LogSavePackage: Save=78.58ms
 [2017.05.18-08.57.49:138][573]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/NewMap301A41FE406C54CD24EC858A910B3D1E.tmp' to '../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap'
 [2017.05.18-08.57.49:141][573]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap
+[2017.05.18-08.58.41:561][ 84]LogSlate: Took 0.004413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.05.18-09.00.07:561][913]BlueprintLog: New page: Compile HDU
+[2017.05.18-09.00.08:731][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HDU" FILE="../../../../../../Users/kimso/gameengine/Content/HDU.uasset" SILENT=true
+[2017.05.18-09.00.08:786][913]LogSavePackage: Save=26.61ms
+[2017.05.18-09.00.08:786][913]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/HDUA17754A74457659A78A033B40A04D026.tmp' to '../../../../../../Users/kimso/gameengine/Content/HDU.uasset'
+[2017.05.18-09.00.08:791][913]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HDU.uasset
+[2017.05.18-09.00.09:188][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HDU" FILE="../../../../../../Users/kimso/gameengine/Content/HDU.uasset" SILENT=true
+[2017.05.18-09.00.09:227][916]LogSavePackage: Save=26.25ms
+[2017.05.18-09.00.09:227][916]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/HDU46A9146442110E1E2D5FE8BFF3C42F71.tmp' to '../../../../../../Users/kimso/gameengine/Content/HDU.uasset'
+[2017.05.18-09.00.09:229][916]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HDU.uasset
+[2017.05.18-09.00.16:819][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HDU" FILE="../../../../../../Users/kimso/gameengine/Content/HDU.uasset" SILENT=true
+[2017.05.18-09.00.16:859][211]LogSavePackage: Save=25.71ms
+[2017.05.18-09.00.16:859][211]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/HDUE85CCB4C4F6FC05672918883A3A209FB.tmp' to '../../../../../../Users/kimso/gameengine/Content/HDU.uasset'
+[2017.05.18-09.00.16:864][211]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HDU.uasset
+[2017.05.18-09.00.19:791][384]BlueprintLog: New page: Compile HDU
+[2017.05.18-09.00.20:286][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HDU" FILE="../../../../../../Users/kimso/gameengine/Content/HDU.uasset" SILENT=true
+[2017.05.18-09.00.20:324][390]LogSavePackage: Save=28.23ms
+[2017.05.18-09.00.20:324][390]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/HDUFE91B3BC420EF556163B2DB6D738E9DA.tmp' to '../../../../../../Users/kimso/gameengine/Content/HDU.uasset'
+[2017.05.18-09.00.20:326][390]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HDU.uasset
+[2017.05.18-09.02.14:993][545]BlueprintLog: New page: Compile HDU
+[2017.05.18-09.02.15:893][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HDU" FILE="../../../../../../Users/kimso/gameengine/Content/HDU.uasset" SILENT=true
+[2017.05.18-09.02.15:949][578]LogSavePackage: Save=48.89ms
+[2017.05.18-09.02.15:949][578]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/HDU87F23CD84EB9586D706E0CB9B0A369E8.tmp' to '../../../../../../Users/kimso/gameengine/Content/HDU.uasset'
+[2017.05.18-09.02.15:957][578]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HDU.uasset
+[2017.05.18-09.02.22:974][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-09.02.23:092][826]LogSavePackage: Save=75.31ms
+[2017.05.18-09.02.23:092][826]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/NewMapF87AA04245519B978B8647B26C5CFCCF.tmp' to '../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap'
+[2017.05.18-09.02.23:095][826]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap
+[2017.05.18-09.02.40:737][567]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-09.03.38:181][  0]BlueprintLog: New page: Compile shooter
+[2017.05.18-09.03.38:848][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/shooter" FILE="../../../../../../Users/kimso/gameengine/Content/shooter.uasset" SILENT=true
+[2017.05.18-09.03.38:901][  4]LogSavePackage: Save=36.12ms
+[2017.05.18-09.03.38:901][  4]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/shooter646C7E7A45B6DA81EA03188900EF4862.tmp' to '../../../../../../Users/kimso/gameengine/Content/shooter.uasset'
+[2017.05.18-09.03.38:906][  4]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/shooter.uasset
+[2017.05.18-09.04.07:425][248]BlueprintLog: New page: Compile shooter
+[2017.05.18-09.04.08:106][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/shooter" FILE="../../../../../../Users/kimso/gameengine/Content/shooter.uasset" SILENT=true
+[2017.05.18-09.04.08:153][258]LogSavePackage: Save=38.71ms
+[2017.05.18-09.04.08:153][258]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/shooterEA8474B14CC6616DD7B680B404656473.tmp' to '../../../../../../Users/kimso/gameengine/Content/shooter.uasset'
+[2017.05.18-09.04.08:159][258]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/shooter.uasset
+[2017.05.18-09.04.57:323][140]BlueprintLog: New page: Compile shooter
+[2017.05.18-09.04.58:222][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/shooter" FILE="../../../../../../Users/kimso/gameengine/Content/shooter.uasset" SILENT=true
+[2017.05.18-09.04.58:282][153]LogSavePackage: Save=47.41ms
+[2017.05.18-09.04.58:282][153]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/shooterBD97F607473E6C808B316595BB4DD90F.tmp' to '../../../../../../Users/kimso/gameengine/Content/shooter.uasset'
+[2017.05.18-09.04.58:288][153]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/shooter.uasset
+[2017.05.18-09.05.04:292][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-09.05.04:473][260]LogSavePackage: Save=127.66ms
+[2017.05.18-09.05.04:473][260]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/NewMap232236FB45F48906B28792834021AA2C.tmp' to '../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap'
+[2017.05.18-09.05.04:476][260]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap
+[2017.05.18-09.05.13:470][551]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.05.18-09.05.15:198][626]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.05.18-09.06.20:606][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroBP/heroBp" FILE="../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset" SILENT=true
+[2017.05.18-09.06.20:733][368]LogSavePackage: Save=108.36ms
+[2017.05.18-09.06.20:733][368]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/heroBp446C25204C8D9446DE7CC7B5F6B3AA0F.tmp' to '../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset'
+[2017.05.18-09.06.20:744][368]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset
+[2017.05.18-09.07.53:763][184]BlueprintLog: New page: Compile heroBp
+[2017.05.18-09.07.54:903][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroBP/heroBp" FILE="../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset" SILENT=true
+[2017.05.18-09.07.55:016][185]LogSavePackage: Save=105.30ms
+[2017.05.18-09.07.55:016][185]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/heroBp52F61BFD4C5ABF1BABDAF18B5F790DAA.tmp' to '../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset'
+[2017.05.18-09.07.55:027][185]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset
+[2017.05.18-09.08.20:958][375]BlueprintLog: New page: Compile heroBp
+[2017.05.18-09.08.21:877][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroBP/heroBp" FILE="../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset" SILENT=true
+[2017.05.18-09.08.21:992][380]LogSavePackage: Save=107.81ms
+[2017.05.18-09.08.21:992][380]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/heroBpE43330F14DAEA2C69EA301A249EDD851.tmp' to '../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset'
+[2017.05.18-09.08.21:997][380]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset
+[2017.05.18-09.08.29:669][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroBP/heroBp" FILE="../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset" SILENT=true
+[2017.05.18-09.08.29:771][523]LogSavePackage: Save=92.95ms
+[2017.05.18-09.08.29:771][523]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/heroBpB1CD6DBA4B779674AC5C00A3B11D52B1.tmp' to '../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset'
+[2017.05.18-09.08.29:776][523]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset
+[2017.05.18-09.08.34:301][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-09.08.34:411][630]LogSavePackage: Save=74.98ms
+[2017.05.18-09.08.34:411][630]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/NewMapDDC07EFD43CF58ABCD89BF8FC73F27F1.tmp' to '../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap'
+[2017.05.18-09.08.34:415][630]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap
+[2017.05.18-09.10.20:350][283]BlueprintLog: New page: Compile enemyBp
+[2017.05.18-09.10.21:433][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemyBp/enemyBp" FILE="../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset" SILENT=true
+[2017.05.18-09.10.21:538][295]LogSavePackage: Save=85.69ms
+[2017.05.18-09.10.21:538][295]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/enemyBp02523D1E4241DBC57E97A3AEE23B7164.tmp' to '../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset'
+[2017.05.18-09.10.21:543][295]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset
+[2017.05.18-09.10.30:328][452]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.18-09.10.30:385][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-09.10.30:385][452]PIE: New page: PIE session: NewMap (May 19, 2017, 3:10:30 AM)
+[2017.05.18-09.10.30:385][452]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2017.05.18-09.10.30:394][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008256s)
+[2017.05.18-09.10.30:394][452]LogAIModule: Creating AISystem for world NewMap
+[2017.05.18-09.10.30:395][452]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2017.05.18-09.10.30:395][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.009739s)
+[2017.05.18-09.10.30:460][452]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-09.10.30:548][452]LogInit: FAudioDevice initialized.
+[2017.05.18-09.10.30:587][452]LogLoad: Game class is 'shooter_C'
+[2017.05.18-09.10.30:590][452]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.05.18-18.10.30
+[2017.05.18-09.10.30:590][452]LogWorld: Bringing up level for play took: 0.001834
+[2017.05.18-09.10.30:595][452]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.895
+[2017.05.18-09.10.36:244][632]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.18-09.10.36:292][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-09.10.36:300][632]PIE: New page: PIE session: NewMap (May 19, 2017, 3:10:36 AM)
+[2017.05.18-09.10.36:300][632]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2017.05.18-09.10.36:324][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024200s)
+[2017.05.18-09.10.36:339][632]LogAIModule: Creating AISystem for world NewMap
+[2017.05.18-09.10.36:339][632]LogPlayLevel: PIE: World Init took: (0.014824s)
+[2017.05.18-09.10.36:339][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.039636s)
+[2017.05.18-09.10.36:437][632]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-09.10.36:543][632]LogInit: FAudioDevice initialized.
+[2017.05.18-09.10.36:627][632]LogLoad: Game class is 'shooter_C'
+[2017.05.18-09.10.36:662][632]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.05.18-18.10.36
+[2017.05.18-09.10.36:662][632]LogWorld: Bringing up level for play took: 0.001698
+[2017.05.18-09.10.36:681][632]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.981
+[2017.05.18-09.10.41:331][818]LogBlueprintUserMessages: [heroBp_C_0] 70.0
+[2017.05.18-09.10.41:540][829]LogBlueprintUserMessages: [heroBp_C_0] 40.0
