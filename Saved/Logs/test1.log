@@ -395,3 +395,123 @@ LogInit: Object subsystem initialized
 [2017.05.18-08.38.25:736][243]LogSavePackage: Save=70.65ms
 [2017.05.18-08.38.25:736][243]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/gunBPEF1A17FD429CC5C78E047489B66EDB72.tmp' to '../../../../../../Users/kimso/gameengine/Content/gunBP/gunBP.uasset'
 [2017.05.18-08.38.25:741][243]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/gunBP/gunBP.uasset
+[2017.05.18-08.39.15:990][459]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.05.18-08.39.16:363][466]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.test1
+
+[2017.05.18-08.39.16:363][466]LogTemp:Display: CWD: C:\Program Files\Epic Games\UE_4.15\Engine\Binaries\DotNET\IOS
+
+[2017.05.18-08.39.16:363][466]LogTemp:Display: Initial Dir: C:\Program Files\Epic Games\UE_4.15
+
+[2017.05.18-08.39.16:363][466]LogTemp:Display: Env CWD: C:\Program Files\Epic Games\UE_4.15\Engine\Binaries\DotNET\IOS
+
+[2017.05.18-08.39.16:363][466]LogTemp:Display: BranchPath = DESKTOP-A4JA1N2/C/Program Files/Epic Games/UE_4.15/Engine/Binaries --- GameBranchPath = DESKTOP-A4JA1N2/C/Program Files/Epic Games/UE_4.15/Engine/Binaries
+
+[2017.05.18-08.39.16:475][474]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: 'C:\Users\kimso\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles' ?????? ?Ϻθ? ã?? ?? ?????ϴ?.
+
+[2017.05.18-08.39.16:475][474]LogTemp:Display:    ??ġ: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.05.18-08.39.16:475][474]LogTemp:Display:    ??ġ: System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.05.18-08.39.16:475][474]LogTemp:Display:    ??ġ: System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.05.18-08.39.16:475][474]LogTemp:Display:    ??ġ: iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.05.18-08.39.16:475][474]LogTemp:Display:    ??ġ: iPhonePackager.Program.Main(String[] args)
+
+[2017.05.18-08.39.18:859][644]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-08.40.38:406][239]BlueprintLog: New page: Compile heroBp
+[2017.05.18-08.40.39:124][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroBP/heroBp" FILE="../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset" SILENT=true
+[2017.05.18-08.40.39:221][239]LogSavePackage: Save=88.90ms
+[2017.05.18-08.40.39:221][239]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/heroBpD90C18B04085E50991FF218B55C1DA0D.tmp' to '../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset'
+[2017.05.18-08.40.39:226][239]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset
+[2017.05.18-08.41.02:354][985]BlueprintLog: New page: Compile heroBp
+[2017.05.18-08.41.03:420][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroBP/heroBp" FILE="../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset" SILENT=true
+[2017.05.18-08.41.03:489][  6]LogSavePackage: Save=63.93ms
+[2017.05.18-08.41.03:489][  6]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/heroBp4C05DBC0496B367B26A2F5A2CD75649C.tmp' to '../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset'
+[2017.05.18-08.41.03:495][  6]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset
+[2017.05.18-08.41.07:622][330]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-08.41.09:641][509]BlueprintLog: New page: Compile heroBp
+[2017.05.18-08.41.10:776][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroBP/heroBp" FILE="../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset" SILENT=true
+[2017.05.18-08.41.10:839][529]LogSavePackage: Save=57.17ms
+[2017.05.18-08.41.10:839][529]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/heroBp56CA31C445D9DCBAC7C756A1F2A6F349.tmp' to '../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset'
+[2017.05.18-08.41.10:845][529]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset
+[2017.05.18-08.41.20:100][859]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-08.41.25:258][391]BlueprintLog: New page: Compile heroBp
+[2017.05.18-08.41.25:991][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroBP/heroBp" FILE="../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset" SILENT=true
+[2017.05.18-08.41.26:054][392]LogSavePackage: Save=56.00ms
+[2017.05.18-08.41.26:054][392]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/heroBpE0DE5BB3462D2EFACC07F29A36C1D09D.tmp' to '../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset'
+[2017.05.18-08.41.26:059][392]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset
+[2017.05.18-08.42.43:503][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroBP/heroBp" FILE="../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset" SILENT=true
+[2017.05.18-08.42.43:578][588]LogSavePackage: Save=70.27ms
+[2017.05.18-08.42.43:579][588]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/heroBp2D4DB1E24485B621A1047E81262949D5.tmp' to '../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset'
+[2017.05.18-08.42.43:584][588]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset
+[2017.05.18-08.42.43:961][625]BlueprintLog: New page: Compile heroBp
+[2017.05.18-08.42.44:655][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroBP/heroBp" FILE="../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset" SILENT=true
+[2017.05.18-08.42.44:730][625]LogSavePackage: Save=68.94ms
+[2017.05.18-08.42.44:730][625]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/heroBp3BECDCAF46057871B28D41A4D6A8831B.tmp' to '../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset'
+[2017.05.18-08.42.44:733][625]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset
+[2017.05.18-08.42.59:931][882]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-08.43.39:726][ 22]BlueprintLog: New page: Compile heroBp
+[2017.05.18-08.43.40:801][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroBP/heroBp" FILE="../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset" SILENT=true
+[2017.05.18-08.43.40:884][ 41]LogSavePackage: Save=78.50ms
+[2017.05.18-08.43.40:884][ 41]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/heroBpEC7477FC40DFA8F2D06DB792F8D28AEF.tmp' to '../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset'
+[2017.05.18-08.43.40:892][ 41]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset
+[2017.05.18-08.45.05:034][894]BlueprintLog: New page: Compile heroBp
+[2017.05.18-08.45.05:851][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroBP/heroBp" FILE="../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset" SILENT=true
+[2017.05.18-08.45.05:953][915]LogSavePackage: Save=96.12ms
+[2017.05.18-08.45.05:953][915]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/heroBpF00515BE4CB68438F5F55799A02DB44D.tmp' to '../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset'
+[2017.05.18-08.45.05:958][915]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset
+[2017.05.18-08.45.08:402][ 97]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.18-08.45.08:435][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-08.45.08:436][ 97]PIE: New page: PIE session: NewMap (May 19, 2017, 2:45:08 AM)
+[2017.05.18-08.45.08:436][ 97]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2017.05.18-08.45.08:455][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018160s)
+[2017.05.18-08.45.08:456][ 97]LogAIModule: Creating AISystem for world NewMap
+[2017.05.18-08.45.08:457][ 97]LogPlayLevel: PIE: World Init took: (0.002105s)
+[2017.05.18-08.45.08:457][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.020754s)
+[2017.05.18-08.45.08:513][ 97]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-08.45.08:612][ 97]LogInit: FAudioDevice initialized.
+[2017.05.18-08.45.08:666][ 97]LogLoad: Game class is 'shooter_C'
+[2017.05.18-08.45.08:669][ 97]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.05.18-17.45.08
+[2017.05.18-08.45.08:669][ 97]LogWorld: Bringing up level for play took: 0.001592
+[2017.05.18-08.45.08:819][ 97]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2017.05.18-08.45.08:822][ 97]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 1.123
+[2017.05.18-08.45.28:599][634]BlueprintLog: New page: Compile heroBp
+[2017.05.18-08.45.31:939][814]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.18-08.45.31:970][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-08.45.31:971][814]PIE: New page: PIE session: NewMap (May 19, 2017, 2:45:31 AM)
+[2017.05.18-08.45.31:971][814]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2017.05.18-08.45.31:973][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002406s)
+[2017.05.18-08.45.31:974][814]LogAIModule: Creating AISystem for world NewMap
+[2017.05.18-08.45.31:975][814]LogPlayLevel: PIE: World Init took: (0.001249s)
+[2017.05.18-08.45.31:975][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004033s)
+[2017.05.18-08.45.32:035][814]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-08.45.32:120][814]LogInit: FAudioDevice initialized.
+[2017.05.18-08.45.32:152][814]LogLoad: Game class is 'shooter_C'
+[2017.05.18-08.45.32:155][814]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.05.18-17.45.32
+[2017.05.18-08.45.32:155][814]LogWorld: Bringing up level for play took: 0.001512
+[2017.05.18-08.45.32:159][814]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.459
+[2017.05.18-08.45.39:611][371]BlueprintLog: New page: Compile heroBp
+[2017.05.18-08.45.53:731][243]BlueprintLog: New page: Compile bulletBP
+[2017.05.18-08.45.55:097][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gunBP/bulletBP" FILE="../../../../../../Users/kimso/gameengine/Content/gunBP/bulletBP.uasset" SILENT=true
+[2017.05.18-08.45.55:151][290]LogSavePackage: Save=46.85ms
+[2017.05.18-08.45.55:151][290]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/bulletBPD16A82604896954F5BDCF981E125C694.tmp' to '../../../../../../Users/kimso/gameengine/Content/gunBP/bulletBP.uasset'
+[2017.05.18-08.45.55:157][290]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/gunBP/bulletBP.uasset
+[2017.05.18-08.45.56:464][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroBP/heroBp" FILE="../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset" SILENT=true
+[2017.05.18-08.45.56:575][396]LogSavePackage: Save=95.55ms
+[2017.05.18-08.45.56:576][396]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/heroBpEEF4F40445FEA40F07AE0D859A72D004.tmp' to '../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset'
+[2017.05.18-08.45.56:582][396]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset
+[2017.05.18-08.45.57:932][479]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.18-08.45.57:964][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-08.45.57:965][479]PIE: New page: PIE session: NewMap (May 19, 2017, 2:45:57 AM)
+[2017.05.18-08.45.57:965][479]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2017.05.18-08.45.57:968][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002991s)
+[2017.05.18-08.45.57:969][479]LogAIModule: Creating AISystem for world NewMap
+[2017.05.18-08.45.57:969][479]LogPlayLevel: PIE: World Init took: (0.001467s)
+[2017.05.18-08.45.57:970][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004858s)
+[2017.05.18-08.45.58:050][479]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-08.45.58:138][479]LogInit: FAudioDevice initialized.
+[2017.05.18-08.45.58:171][479]LogLoad: Game class is 'shooter_C'
+[2017.05.18-08.45.58:174][479]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.05.18-17.45.58
+[2017.05.18-08.45.58:174][479]LogWorld: Bringing up level for play took: 0.001296
+[2017.05.18-08.45.58:177][479]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.478
