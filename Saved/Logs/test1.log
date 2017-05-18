@@ -515,3 +515,191 @@ LogInit: Object subsystem initialized
 [2017.05.18-08.45.58:174][479]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.05.18-17.45.58
 [2017.05.18-08.45.58:174][479]LogWorld: Bringing up level for play took: 0.001296
 [2017.05.18-08.45.58:177][479]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.478
+[2017.05.18-08.46.27:388][964]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-08.46.40:891][772]BlueprintLog: New page: Compile enemyBp
+[2017.05.18-08.46.58:539][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemyBp/MI" FILE="../../../../../../Users/kimso/gameengine/Content/enemyBp/MI.uasset" SILENT=true
+[2017.05.18-08.46.58:578][896]LogSavePackage: Save=34.39ms
+[2017.05.18-08.46.58:578][896]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/MI2DFD41E947217D7BBC5C9EA61DEB483E.tmp' to '../../../../../../Users/kimso/gameengine/Content/enemyBp/MI.uasset'
+[2017.05.18-08.46.58:583][896]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/enemyBp/MI.uasset
+[2017.05.18-08.47.02:809][ 55]LogRenderer: Reallocating scene render targets to support 776x688 NumSamples 1 (Frame:43636).
+[2017.05.18-08.47.07:692][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemyBp/MI" FILE="../../../../../../Users/kimso/gameengine/Content/enemyBp/MI.uasset" SILENT=true
+[2017.05.18-08.47.07:772][544]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI, compiling. 
+[2017.05.18-08.47.07:776][544]LogTemp:Display: Added material ShaderMap 0x000002636C97CB80 with Material 0x00000263767A3400 to ShaderMapsBeingCompiled
+[2017.05.18-08.47.09:016][544]LogTemp:Display: Finished compile of shader map 0x000002636C97CB80
+[2017.05.18-08.47.09:016][544]LogTemp:Display: Shader map FDebugViewModeMaterialProxy MI complete, GameThreadShaderMap 0x000002636C97CB80, marking material FDebugViewModeMaterialProxy MI as finished
+[2017.05.18-08.47.09:016][544]LogTemp:Display: Marking material as finished 0x00000263767A3400
+[2017.05.18-08.47.09:021][544]TextureStreamingBuild:Display: Compiling optional shaders took 1.297 seconds.
+[2017.05.18-08.47.09:132][544]LogSavePackage: Save=68.69ms
+[2017.05.18-08.47.09:132][544]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/MIF9798BAC45C7F92B2F8B11B5D3F94F2F.tmp' to '../../../../../../Users/kimso/gameengine/Content/enemyBp/MI.uasset'
+[2017.05.18-08.47.09:138][544]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/enemyBp/MI.uasset
+[2017.05.18-08.47.19:484][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemyBp/enemyBp" FILE="../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset" SILENT=true
+[2017.05.18-08.47.19:546][247]LogSavePackage: Save=53.96ms
+[2017.05.18-08.47.19:546][247]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/enemyBp2BF6F5E24C4A16C983D22F9A0B8FA8A7.tmp' to '../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset'
+[2017.05.18-08.47.19:551][247]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset
+[2017.05.18-08.47.20:401][317]BlueprintLog: New page: Compile enemyBp
+[2017.05.18-08.47.56:153][911]LogRenderer: Reallocating scene render targets to support 940x688 NumSamples 1 (Frame:47475).
+[2017.05.18-08.48.07:869][716]BlueprintLog: New page: Compile enemyBp
+[2017.05.18-08.48.08:755][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemyBp/enemyBp" FILE="../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset" SILENT=true
+[2017.05.18-08.48.08:816][716]LogSavePackage: Save=54.70ms
+[2017.05.18-08.48.08:816][716]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/enemyBpC91A7A5F4C3AE7B9583409875CCE499F.tmp' to '../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset'
+[2017.05.18-08.48.08:823][716]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset
+[2017.05.18-08.48.09:279][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemyBp/enemyBp" FILE="../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset" SILENT=true
+[2017.05.18-08.48.09:330][733]LogSavePackage: Save=37.30ms
+[2017.05.18-08.48.09:330][733]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/enemyBp5F571B9F477201FBD44FFE9AE4246BCC.tmp' to '../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset'
+[2017.05.18-08.48.09:334][733]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset
+[2017.05.18-08.48.56:511][314]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-08.49.15:181][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemyBp/enemyBp" FILE="../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset" SILENT=true
+[2017.05.18-08.49.15:252][823]LogSavePackage: Save=64.67ms
+[2017.05.18-08.49.15:252][823]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/enemyBpE3C5F3B445A288DB1A32DBAB9D6BA997.tmp' to '../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset'
+[2017.05.18-08.49.15:260][823]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset
+[2017.05.18-08.49.15:268][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/UE4_Mannequin/Materials/MI" FILE="../../../../../../Users/kimso/gameengine/Content/AnimationAssets/UE4_Mannequin/Materials/MI.uasset" SILENT=true
+[2017.05.18-08.49.15:290][823]LogSavePackage: Save=15.21ms
+[2017.05.18-08.49.15:290][823]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/MI58C475524D5633B391596A840A8FB2F8.tmp' to '../../../../../../Users/kimso/gameengine/Content/AnimationAssets/UE4_Mannequin/Materials/MI.uasset'
+[2017.05.18-08.49.15:295][823]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/AnimationAssets/UE4_Mannequin/Materials/MI.uasset
+[2017.05.18-08.49.46:578][296]BlueprintLog: New page: Compile enemyBp
+[2017.05.18-08.49.48:017][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemyBp/enemyBp" FILE="../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset" SILENT=true
+[2017.05.18-08.49.48:095][368]LogSavePackage: Save=67.24ms
+[2017.05.18-08.49.48:095][368]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/enemyBp978953A941C3F8B0073429BBABEC6509.tmp' to '../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset'
+[2017.05.18-08.49.48:103][368]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset
+[2017.05.18-08.50.04:660][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gunBP/bulletBP" FILE="../../../../../../Users/kimso/gameengine/Content/gunBP/bulletBP.uasset" SILENT=true
+[2017.05.18-08.50.04:715][839]LogSavePackage: Save=48.22ms
+[2017.05.18-08.50.04:715][839]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/bulletBP2B709BC5479B06D0D05CF392923F755C.tmp' to '../../../../../../Users/kimso/gameengine/Content/gunBP/bulletBP.uasset'
+[2017.05.18-08.50.04:720][839]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/gunBP/bulletBP.uasset
+[2017.05.18-08.51.02:269][625]BlueprintLog: New page: Compile enemyBp
+[2017.05.18-08.51.03:194][627]BlueprintLog: New page: Compile enemyBp
+[2017.05.18-08.51.04:019][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemyBp/enemyBp" FILE="../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset" SILENT=true
+[2017.05.18-08.51.04:101][655]LogSavePackage: Save=76.18ms
+[2017.05.18-08.51.04:101][655]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/enemyBp611C06AA45368C8F8621BAADF7A1A31A.tmp' to '../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset'
+[2017.05.18-08.51.04:107][655]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset
+[2017.05.18-08.51.10:544][  6]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.18-08.51.10:610][  6]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.05.18-08.51.10:610][  6]LogPlayLevel: [PlayLevel] Compiling bulletBP before play...
+[2017.05.18-08.51.10:804][  6]LogPlayLevel: PlayLevel: Blueprint regeneration took 194 ms (1 blueprints)
+[2017.05.18-08.51.10:805][  6]PIE: New page: PIE session: NewMap (May 19, 2017, 2:51:10 AM)
+[2017.05.18-08.51.10:805][  6]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2017.05.18-08.51.10:808][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003436s)
+[2017.05.18-08.51.10:809][  6]LogAIModule: Creating AISystem for world NewMap
+[2017.05.18-08.51.10:810][  6]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2017.05.18-08.51.10:810][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.005147s)
+[2017.05.18-08.51.10:870][  6]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-08.51.10:954][  6]LogInit: FAudioDevice initialized.
+[2017.05.18-08.51.10:987][  6]LogLoad: Game class is 'shooter_C'
+[2017.05.18-08.51.10:991][  6]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.05.18-17.51.10
+[2017.05.18-08.51.10:992][  6]LogWorld: Bringing up level for play took: 0.002931
+[2017.05.18-08.51.10:995][  6]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 1.296
+[2017.05.18-08.51.21:655][653]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.18-08.51.21:689][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-08.51.21:689][653]PIE: New page: PIE session: NewMap (May 19, 2017, 2:51:21 AM)
+[2017.05.18-08.51.21:689][653]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2017.05.18-08.51.21:692][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002828s)
+[2017.05.18-08.51.21:693][653]LogAIModule: Creating AISystem for world NewMap
+[2017.05.18-08.51.21:693][653]LogPlayLevel: PIE: World Init took: (0.001457s)
+[2017.05.18-08.51.21:694][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004697s)
+[2017.05.18-08.51.21:767][653]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-08.51.21:861][653]LogInit: FAudioDevice initialized.
+[2017.05.18-08.51.21:894][653]LogLoad: Game class is 'shooter_C'
+[2017.05.18-08.51.21:898][653]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2017.05.18-17.51.21
+[2017.05.18-08.51.21:899][653]LogWorld: Bringing up level for play took: 0.002891
+[2017.05.18-08.51.21:902][653]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.203
+[2017.05.18-08.51.44:657][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-08.51.44:794][268]LogSavePackage: Save=81.02ms
+[2017.05.18-08.51.44:794][268]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/NewMap6C4C035945590D493B132DB147B8AB3E.tmp' to '../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap'
+[2017.05.18-08.51.44:799][268]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap
+[2017.05.18-08.51.44:843][268]LogFileHelpers: Saving map 'NewMap' took 0.346
+[2017.05.18-08.51.51:333][548]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.18-08.51.51:370][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-08.51.51:370][548]PIE: New page: PIE session: NewMap (May 19, 2017, 2:51:51 AM)
+[2017.05.18-08.51.51:370][548]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2017.05.18-08.51.51:373][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003134s)
+[2017.05.18-08.51.51:374][548]LogAIModule: Creating AISystem for world NewMap
+[2017.05.18-08.51.51:375][548]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2017.05.18-08.51.51:375][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004863s)
+[2017.05.18-08.51.51:414][548]LogTemp:Display: Removed shader map 0x0000026316708800 from material 0x00000262B6D66C00
+[2017.05.18-08.51.51:414][548]LogTemp:Display: Removed shader map 0x0000026316705280 from material 0x00000262B6D66C00
+[2017.05.18-08.51.51:414][548]LogTemp:Display: Removed shader map 0x0000026316AAEE80 from material 0x00000262B6D66C00
+[2017.05.18-08.51.51:414][548]LogTemp:Display: Removed shader map 0x00000262ACD16E80 from material 0x00000262B6D66C00
+[2017.05.18-08.51.51:414][548]LogTemp:Display: Removed shader map 0x000002630BBB8B80 from material 0x00000262B6D66C00
+[2017.05.18-08.51.51:414][548]LogTemp:Display: Removed shader map 0x0000026301856400 from material 0x00000262B6D66C00
+[2017.05.18-08.51.51:414][548]LogTemp:Display: Removed shader map 0x00000262B7EEB900 from material 0x00000262B6D66C00
+[2017.05.18-08.51.51:414][548]LogTemp:Display: Removed shader map 0x00000262D2D59D00 from material 0x00000262B6D66C00
+[2017.05.18-08.51.51:414][548]LogTemp:Display: Removed shader map 0x00000262D2EB0100 from material 0x00000262B6D66C00
+[2017.05.18-08.51.51:414][548]LogTemp:Display: Removed shader map 0x00000262D2FA5D00 from material 0x00000262B6D66C00
+[2017.05.18-08.51.51:461][548]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-08.51.51:552][548]LogInit: FAudioDevice initialized.
+[2017.05.18-08.51.51:587][548]LogLoad: Game class is 'shooter_C'
+[2017.05.18-08.51.51:590][548]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.05.18-17.51.51
+[2017.05.18-08.51.51:591][548]LogWorld: Bringing up level for play took: 0.002732
+[2017.05.18-08.51.51:595][548]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.104
+[2017.05.18-08.51.53:000][614]LogBlueprintUserMessages: [heroBp_C_0] 100.0
+[2017.05.18-08.51.53:333][634]LogBlueprintUserMessages: [heroBp_C_0] 100.0
+[2017.05.18-08.51.53:673][654]LogBlueprintUserMessages: [heroBp_C_0] 100.0
+[2017.05.18-08.52.03:024][999]BlueprintLog: New page: Compile enemyBp
+[2017.05.18-08.52.08:240][143]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.18-08.52.08:274][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-08.52.08:274][143]PIE: New page: PIE session: NewMap (May 19, 2017, 2:52:08 AM)
+[2017.05.18-08.52.08:274][143]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2017.05.18-08.52.08:277][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002936s)
+[2017.05.18-08.52.08:279][143]LogAIModule: Creating AISystem for world NewMap
+[2017.05.18-08.52.08:279][143]LogPlayLevel: PIE: World Init took: (0.001778s)
+[2017.05.18-08.52.08:279][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.005045s)
+[2017.05.18-08.52.08:353][143]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-08.52.08:439][143]LogInit: FAudioDevice initialized.
+[2017.05.18-08.52.08:471][143]LogLoad: Game class is 'shooter_C'
+[2017.05.18-08.52.08:475][143]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.05.18-17.52.08
+[2017.05.18-08.52.08:475][143]LogWorld: Bringing up level for play took: 0.002540
+[2017.05.18-08.52.08:479][143]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.779
+[2017.05.18-08.52.10:253][233]LogBlueprintUserMessages: [heroBp_C_0] 70.0
+[2017.05.18-08.52.10:588][253]LogBlueprintUserMessages: [heroBp_C_0] 40.0
+[2017.05.18-08.52.10:921][273]LogBlueprintUserMessages: [heroBp_C_0] 10.0
+[2017.05.18-08.52.11:254][293]LogBlueprintUserMessages: [heroBp_C_0] -20.0
+[2017.05.18-08.52.14:656][355]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.18-08.52.14:690][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-08.52.14:695][355]PIE: New page: PIE session: NewMap (May 19, 2017, 2:52:14 AM)
+[2017.05.18-08.52.14:695][355]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2017.05.18-08.52.14:698][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003749s)
+[2017.05.18-08.52.14:700][355]LogAIModule: Creating AISystem for world NewMap
+[2017.05.18-08.52.14:700][355]LogPlayLevel: PIE: World Init took: (0.001864s)
+[2017.05.18-08.52.14:701][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.005951s)
+[2017.05.18-08.52.14:773][355]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-08.52.14:862][355]LogInit: FAudioDevice initialized.
+[2017.05.18-08.52.14:897][355]LogLoad: Game class is 'shooter_C'
+[2017.05.18-08.52.14:900][355]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.05.18-17.52.14
+[2017.05.18-08.52.14:901][355]LogWorld: Bringing up level for play took: 0.002578
+[2017.05.18-08.52.14:904][355]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 1.205
+[2017.05.18-08.52.25:219][807]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-08.52.28:303][976]BlueprintLog: New page: Compile bulletBP
+[2017.05.18-08.52.29:189][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gunBP/bulletBP" FILE="../../../../../../Users/kimso/gameengine/Content/gunBP/bulletBP.uasset" SILENT=true
+[2017.05.18-08.52.29:295][977]LogSavePackage: Save=89.23ms
+[2017.05.18-08.52.29:295][977]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/bulletBPBFAC577046B25E3C85FDDB8A1031E87A.tmp' to '../../../../../../Users/kimso/gameengine/Content/gunBP/bulletBP.uasset'
+[2017.05.18-08.52.29:301][977]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/gunBP/bulletBP.uasset
+[2017.05.18-08.52.33:956][173]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2017.05.18-08.52.34:491][173]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_28:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2017.05.18-08.52.45:124][560]BlueprintLog: New page: Compile heroBp
+[2017.05.18-08.52.46:849][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-08.52.46:965][577]LogSavePackage: Save=81.82ms
+[2017.05.18-08.52.46:965][577]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/NewMap55659AE64CEEF86079A77C9FC183958A.tmp' to '../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap'
+[2017.05.18-08.52.46:971][577]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/Maps/NewMap.umap
+[2017.05.18-08.52.47:016][577]LogFileHelpers: Saving map 'NewMap' took 0.322
+[2017.05.18-08.52.47:065][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroBP/heroBp" FILE="../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset" SILENT=true
+[2017.05.18-08.52.47:183][577]LogSavePackage: Save=100.44ms
+[2017.05.18-08.52.47:183][577]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/heroBp8F913E5240FE8A4D2D78079C0FF9CEC5.tmp' to '../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset'
+[2017.05.18-08.52.47:189][577]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/HeroBP/heroBp.uasset
+[2017.05.18-08.52.47:242][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemyBp/enemyBp" FILE="../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset" SILENT=true
+[2017.05.18-08.52.47:339][577]LogSavePackage: Save=77.75ms
+[2017.05.18-08.52.47:339][577]LogSavePackage: Moving '../../../../../../Users/kimso/gameengine/Saved/enemyBp368FF4AD4E4BCBDE9C65F2AA94C46D5C.tmp' to '../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset'
+[2017.05.18-08.52.47:346][577]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kimso/gameengine/Content/enemyBp/enemyBp.uasset
+[2017.05.18-08.52.48:712][653]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.18-08.52.48:753][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-08.52.48:754][653]PIE: New page: PIE session: NewMap (May 19, 2017, 2:52:48 AM)
+[2017.05.18-08.52.48:754][653]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2017.05.18-08.52.48:757][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003180s)
+[2017.05.18-08.52.48:758][653]LogAIModule: Creating AISystem for world NewMap
+[2017.05.18-08.52.48:758][653]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2017.05.18-08.52.48:758][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.004679s)
+[2017.05.18-08.52.48:826][653]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.05.18-08.52.48:913][653]LogInit: FAudioDevice initialized.
+[2017.05.18-08.52.48:977][653]LogLoad: Game class is 'shooter_C'
+[2017.05.18-08.52.48:980][653]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2017.05.18-17.52.48
+[2017.05.18-08.52.48:981][653]LogWorld: Bringing up level for play took: 0.003134
+[2017.05.18-08.52.48:995][653]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.704
+[2017.05.18-08.52.49:018][653]LogRenderer: Reallocating scene render targets to support 1292x756 NumSamples 1 (Frame:51852).
